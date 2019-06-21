@@ -1,0 +1,11 @@
+ft_putstr
+
+Consigne : Écrire une fonction qui affiche un à un les caractères d’une chaîne à l’écran.
+L’adresse du premier caractère de la chaîne est contenue dans le pointeur passé en
+paramètre à la fonction.
+Elle devra être prototypée de la façon suivante :
+void	ft_putstr(char *str);
+
+Dossier de rendu : ex00/
+Fichiers à rendre : ft_putstr.c
+Fonctions Autorisées : write

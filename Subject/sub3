@@ -1,0 +1,9 @@
+ft_strlcat
+
+Reproduire à l’identique le fonctionnement de la fonction strlcat (man strlcat).
+Elle devra être prototypée de la façon suivante :
+unsigned int	ft_strlcat(char *dest, char *src, unsigned int size);
+
+Dossier de rendu : ex02/
+Fichiers à rendre : ft_strlcat.c
+Fonctions Autorisées : Aucune
